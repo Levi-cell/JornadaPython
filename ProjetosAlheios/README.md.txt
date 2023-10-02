@@ -1,0 +1,1 @@
+Este projeto está incompleto, comecei a fazer ele como algo paralelo enquanto esperava a correção de um desafio. Assim que recebi a resposta parei esse projeto e partir pro próximo. Caso eu volte a continuar esse projeto atualizarei aqui 

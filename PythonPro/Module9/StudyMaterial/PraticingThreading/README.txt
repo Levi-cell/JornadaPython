@@ -1,0 +1,1 @@
+Neste código eu crioe um módulo quadrado, neste eu declaro uma função que vou usar nos outros módulos, cada módulo terá uma forma diferente de executar a função de forma assincrona.

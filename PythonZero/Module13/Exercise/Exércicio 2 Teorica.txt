@@ -1,0 +1,21 @@
+1 - Qual a acurácia do modelo e justifique:
+
+A acuracia do modelo pode variar conforme a divisao da porcentagem de treino e teste, mas nesse caso do exercicio proposto a acuracia do modelo e de aprox 0.95% o que pode ser considerada alta, isso por que o modelo esta usando o algoritimo SVM que e muito eficaz para classificar os dados manuscritos assim como o MNIST, mas alem da acuracia sempre deve se observar outras metricas tambem para melhor avaliar o modelo
+
+2 - O modelo teve uma boa performance? Justifique:
+
+Com base na acuracia obtida podemos dizer que o modelo teve uma boa performance, pois alem da acuracia o modelo apresenta bons resultados no recal, f1 e precision assim no geral ele obteve um bom desempenho
+
+3 - Quais foram os melhores parâmetros escolhidos? Justifique:
+
+o parâmetro gamma foi definido como 0.001 para o classificador SVC. A escolha do valor 0.001 foi determinada por experimentação mas podendo ser tambem determinada por otimizacao de hiperparametros, os melhores parâmetros podem variar dependendo do conjunto de dados e do problema específico. Em algumas situações, pode ser necessário realizar uma busca de hiperparâmetros mais abrangente para determinar os valores ótimos.
+
+4 - Quais são as principais dificuldades encontradas para o modelo de criação? Alguma delas:
+
+Dificuldade na pré-processamento dos dados: O conjunto de dados MNIST é relativamente limpo e bem estruturado, mas em problemas reais de classificação de dígitos manuscritos, a qualidade e a variação dos dados podem apresentar desafios adicionais.
+
+Dificuldade em lidar com classes desbalanceadas: Se o conjunto de dados tiver classes desbalanceadas, ou seja, algumas classes têm muito mais instâncias do que outras, o modelo pode ter dificuldade em realizar previsões precisas para as classes minoritárias.
+
+Dificuldade em ajustar os hiperparâmetros: A escolha adequada dos hiperparâmetros do modelo pode ser um desafio. Diferentes valores de hiperparâmetros podem levar a resultados significativamente diferentes.
+
+Overfitting e Underfitting: Em alguns casos, o modelo pode se ajustar muito bem ou muito mal aos dados de treinamento. Isso pode ocorrer quando o modelo é muito ou pouco complexo em relação ao tamanho e à qualidade dos dados de treinamento disponíveis

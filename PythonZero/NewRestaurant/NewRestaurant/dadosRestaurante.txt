@@ -1,0 +1,3 @@
+{'Nome do item': 'Parmegiana 300g', 'quantidade': 3, 'valor unitário do Item': 25.0}
+{'Nome do item': 'Feijoada', 'quantidade': 4, 'valor unitário do Item': 20.0}
+{'Nome do item': 'Muqueca', 'quantidade': 4, 'valor unitário do Item': 30.0}

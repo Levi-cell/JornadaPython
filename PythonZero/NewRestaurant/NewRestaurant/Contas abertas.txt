@@ -1,0 +1,2 @@
+{'Número da mesa': 3, 'Nome do garçom': 'Alberto', 'Itens': []}
+{'Número da mesa': 4, 'Nome do garçom': 'Matias', 'Itens': []}

@@ -1,0 +1,43 @@
+Aqui estamos fazendo testes de importações
+
+
+1 - foi criado uma pasta mentorama 
+
+2 - dentro dessa pasta foi criada um arquivo chamado "mentorama_teste" com uma função chamada teste que imprime "Ola blz?"
+
+
+3 - Depois essa pasta foi copiada e colocada no seguinte caminho: C:\Users\levig\Desktop\Programação\Mentorama\Python\PythonPro\Module1\Interpreters\MóduloPacotes\Lib\site-packages\mentorama\mentorama_teste.py
+
+4 - Após isso modifique essa pasta e colocando que a função irá imprimir "Ola tuudo bem?"
+
+5 - Após isso abra o CMD dentro do arquivo de código no Pycharm
+
+6 - Digite python3 
+
+7 - Digite from mentorama.mentorama_teste import teste
+
+8 - chame a função teste
+
+9 - Observer que irá aparecer "olá blz?"
+
+10 - após isso delete a primeira biblioteca
+
+11 - execute a função teste, observe que ele irá imprimir "ola blz?" também pois o python armazena tudo em memória
+
+12 - agora dê um exit() para sair e execute os mesmos comandos do passo 6,7,8
+
+13 - Observe que printar "Ola tuudo bem?"
+
+14 - após isso crie um módulo segundo_teste com uma função teste que imprima "agora importou"
+
+15 - após dar o comando python3 no cmd tente importar o módulo, você não terá sucesso pois precisará mudar de diretório.
+
+16 - para mudar de diretório faça um exit()
+
+17 - depois dê um cd..
+
+18 - depois python3
+
+19 - apóis isso import segundo teste de novo, observe que agora funcionará
+
+OBS - Confira o print no arquivo desse exercicio

@@ -1,0 +1,16 @@
+Resources:
+  Atividade:
+    Properties:
+      ImageId: ami-053b0d53c279acc90
+      InstanceType: t2.micro
+    Type: AWS::EC2::Instance
+  Atividade2:
+    Properties:
+      ImageId: ami-053b0d53c279acc90
+      InstanceType: t2.micro
+    Type: AWS::EC2::Instance
+  Atividade3:
+    Properties:
+      ImageId: ami-053b0d53c279acc90
+      InstanceType: t2.micro
+    Type: AWS::EC2::Instance

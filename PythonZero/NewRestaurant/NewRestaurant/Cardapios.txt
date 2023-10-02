@@ -1,0 +1,4 @@
+{'Parmegiana 300g': 25.0}
+{'Parmegiana 300g': 25.0, 'Feijoada': 20.0}
+{'Muqueca': 30.0}
+prato: dfg, valor: 5.0

@@ -26,7 +26,7 @@ Dito isso se sinta a vontade para explorar toda minha progressão... Até mais!!
 
 Para qualquer dúvida só me contatar:
 
-email: levigov21@gmail.com
+email: edcaspfilho@gmail.com
 telefone: 71994111866
 
 ENGLISH
@@ -57,7 +57,7 @@ That said, feel free to explore my entire progression... See you later!!
 
 For any queries, just contact me:
 
-email: levigov21@gmail.com
+email: edcaspfilho@gmail.com
 Phone: 71994111866
 
 
